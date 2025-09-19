@@ -25,6 +25,4 @@ I'm a passionate .NET developer with a strong focus on building robust and scala
 
 #
 
-### 📊 Stats
 
-![Radek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkl-scalepoint&show_icons=true&theme=gruvbox&include_orgs=scalepoint)
